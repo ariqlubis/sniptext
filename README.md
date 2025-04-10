@@ -4,7 +4,7 @@ A simple terminal-based tool that summarizes the main content of any website usi
 
 ## 📹 Demo
 
-![Demo](./assets/demo.gif)
+![Demo](./assets/demo_sniptext.gif)
 
 ---
 
